@@ -1,1 +1,1 @@
-# Logistic Regression
+# Simple Linear Regression
